@@ -1,2 +1,2 @@
 # retrocomputing
-Notes on working on old computers
+Notes on working with old computers
